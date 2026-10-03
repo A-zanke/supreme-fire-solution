@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a-zanke.github.io/supreme-fire-solution/sitemap.xml
